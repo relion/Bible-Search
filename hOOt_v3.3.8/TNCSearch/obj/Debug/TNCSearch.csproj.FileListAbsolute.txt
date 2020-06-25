@@ -1,0 +1,13 @@
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\obj\Debug\TNCSearch.exe
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\obj\Debug\TNCSearch.pdb
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\TNCSearch.exe
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\TNCSearch.pdb
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\Hoot.dll
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\Hoot.pdb
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\obj\Debug\TNCSearch.Properties.Resources.resources
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\obj\Debug\TNCSearch.csproj.GenerateResource.Cache
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\obj\Debug\TNCSearch.csprojResolveAssemblyReference.cache
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\obj\Debug\TNCSearch.TNCSearchMainForm.resources
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\Newtonsoft.Json.pdb
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\TNCSearch\bin\Debug\Newtonsoft.Json.xml

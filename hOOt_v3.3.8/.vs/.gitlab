@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2520655,
+    "Username": "aryeh.tuchfeld",
+    "Name": "Aryeh Tuchfeld",
+    "Email": "aryeh@mutualart.net",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/a318606ea5e84f6af85aa4599cd2a7d4?s=80&d=identicon",
+    "PrivateToken": "2eb83e149b2cdd40b4de777c8b11e3c199c684107b0df59e6812ea6e34c28c7d",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

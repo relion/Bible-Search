@@ -1,0 +1,15 @@
+D:\Projects\IndexEngine\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.dll
+D:\Projects\IndexEngine\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.pdb
+D:\Projects\IndexEngine\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.csprojResolveAssemblyReference.cache
+D:\Projects\IndexEngine\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.dll
+D:\Projects\IndexEngine\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.pdb
+D:\Projects\FB\Indexers\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.dll
+D:\Projects\FB\Indexers\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.pdb
+D:\Projects\FB\Indexers\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.csprojResolveAssemblyReference.cache
+D:\Projects\FB\Indexers\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.dll
+D:\Projects\FB\Indexers\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.pdb
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.dll
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\Hoot\bin\Debug\Hoot.pdb
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.csprojResolveAssemblyReference.cache
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.dll
+D:\Projects\FB\Indexers\hOOt\hOOt_v3.3.8\Hoot\obj\Debug\Hoot.pdb
